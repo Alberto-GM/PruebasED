@@ -9,6 +9,8 @@ package com.mycompany.gitcalculadora;
  *
  * @author alumno
  */
-public class Bingus {
-    
+public class Bingus 
+{
+    private int a;
+    private int b;
 }
